@@ -4,10 +4,10 @@ import time
 import threading
 from threading import Thread
 os.system("clear")
-print("________________________________script By:KID______________________")
+print("________________________________เครดิต:https://www.facebook.com/profile.php?id=100073808510262 ______________________")
 print("__________________________________100api___________________________________")
 print("")
-print("_____________________https://www.facebook.com/settamas______________________")
+print("_____________________https://www.facebook.com/profile.php?id=100073808510262______________________")
 print("")
 print("________________________________Python100%________________________")
 print("")
